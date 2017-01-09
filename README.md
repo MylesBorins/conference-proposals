@@ -1,6 +1,7 @@
 # Conference Proposals
 > A collection of proposals I have sent out
 
+* [A Distributed Orchestra](a-distributed-orchestra.md)
 * [The CITGM Diaries](the-citgm-diaries.md)
 
 ## Want me to give one of these talks at your event?
