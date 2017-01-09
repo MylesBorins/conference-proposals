@@ -4,6 +4,7 @@
 * [A Distributed Orchestra](a-distributed-orchestra.md)
 * [Node.js Releases: How do they work?](node-js-releases.md)
 * [Open Source Governance Models: From BDFL to Distributed Consensus](open-source-governance-models.md)
+* [Space Your Face: spatialized audio for fun and profit](space-your-face.md)
 * [The CITGM Diaries](the-citgm-diaries.md)
 * [The True Cost of Unmoderated Collaboration](cost-of-unmoderated-collaboration.md)
 * [Why Empathy Matters](why-empathy-matters.md)
