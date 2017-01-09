@@ -3,7 +3,7 @@
 
 * [The CITGM Diaries](the-citgm-diaries.md)
 
-## Want to see any of these?
+## Want me to give one of these talks at your event?
 
 Just reach out!
 
