@@ -3,6 +3,7 @@
 
 * [A Distributed Orchestra](a-distributed-orchestra.md)
 * [Node.js Releases: How do they work?](node-js-releases.md)
+* [Open Source Governance Models: From BDFL to Distributed Consensus](open-source-governance-models.md)
 * [The CITGM Diaries](the-citgm-diaries.md)
 * [Why Empathy Matters](why-empathy-matters.md)
 
