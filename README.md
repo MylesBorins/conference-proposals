@@ -3,6 +3,7 @@
 
 * [A Distributed Orchestra](a-distributed-orchestra.md)
 * [The CITGM Diaries](the-citgm-diaries.md)
+* [Why Empathy Matters](why-empathy-matters.md)
 
 ## Want me to give one of these talks at your event?
 
