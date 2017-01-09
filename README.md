@@ -2,6 +2,7 @@
 > A collection of proposals I have sent out
 
 * [A Distributed Orchestra](a-distributed-orchestra.md)
+* [Node.js Releases: How do they work?](node-js-releases.md)
 * [The CITGM Diaries](the-citgm-diaries.md)
 * [Why Empathy Matters](why-empathy-matters.md)
 
