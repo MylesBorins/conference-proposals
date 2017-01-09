@@ -1,6 +1,8 @@
 # Conference Proposals
 > A collection of proposals I have sent out
 
+* [The CITGM Diaries](the-citgm-diaries.md)
+
 ## Want to see any of these?
 
 Just reach out!
