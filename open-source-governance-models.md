@@ -1,9 +1,9 @@
-# Open Source Governance Models: From BDFL to Distributed Consensus
+# Open Source Governance Models: From BDFL to Consensus Seeking
 
 ## Abstract
 
 Prior to the fork Node.js was run using a Benevolent Dictator for Life model.
-After merging with io.js the project adopted a distributed consensus model for
+After merging with io.js the project adopted a consensus seeking model for
 landing all changes and governance.
 
 The project has seen a resurgence in contribution in the new model, but it is not
@@ -29,7 +29,7 @@ merging of two disparate governance structures. With the stewardship of the proj
 being handed over to the Node Foundation with a variety of enterprise members, it
 was yet again time to re-visit the governance structure of the project.
 
-Today the Node.js project is run using a distributed consensus model with a Core
+Today the Node.js project is run using a consensus seeking model with a Core
 Technical Committee (CTC) to defer to when a consensus cannot be met. Commit-bits
 are handed out to active contributors, but not nearly as liberally as before the
 merger. Under the CTC is a number of working-groups that focus on specific technical
