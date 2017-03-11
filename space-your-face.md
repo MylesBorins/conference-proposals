@@ -16,6 +16,16 @@ out around 10 pairs of cheap headphones for people to use.
 If the room where this talk is being given has multiple channels of speakers we
 can arrange a much more intensive demo using ambisonics and other open technologies.
 
+## Pitch
+
+How the brain places sound in space is incredibly interesting. Once you can codify this phenomenon it is possible to use computer and hardware to encode and emulate sounds in physical space.
+
+VIRTUAL REALITY SOUND!!!!
+
+I'm really excited about this as you can tell.
+
+I studied music technology in graduate school and did a course on spatial audio. This included both programming software to place sound in space and using that software to write compositions. I'd really love to share this knowledge with folks.
+
 ## Watch the talk
 
 An early iteration of this talk was given at BrooklynJS in Dec of 2016
