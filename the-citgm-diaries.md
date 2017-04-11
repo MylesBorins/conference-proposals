@@ -28,4 +28,7 @@ different case studies of major breakages that would not have been found with CI
 ### Node Interactive 2016
 
 [![Node Interactive 2016](https://img.youtube.com/vi/8is8iKlo8oQ/0.jpg)](https://www.youtube.com/watch?v=8is8iKlo8oQ)
+
+### Node.js Madrid April 2017
+
 [![Nodejs Mardrid](https://i.vimeocdn.com/video/628221460_640.webp)](https://vimeo.com/212275635)
