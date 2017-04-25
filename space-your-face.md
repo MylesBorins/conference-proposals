@@ -1,4 +1,4 @@
-# Space your face: spatialized audio for fun and profit
+# Space your face: the magic behind spatialized spatialized audio
 
 ## Abstract
 
