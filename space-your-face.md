@@ -1,4 +1,4 @@
-# Space your face: the magic behind spatialized spatialized audio
+# Space your face: this is your brain on spatialized audio
 
 ## Abstract
 
