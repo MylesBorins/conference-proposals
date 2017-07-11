@@ -3,7 +3,7 @@
 ## Abstract
 
 There is a group called tc39, they work on a standard called ecma262. The standard is for
-a language called JavaScript. This languageis implemented various vendors, generally companies who
+a language called JavaScript. This language is implemented by various vendors, generally companies who
 make browsers. Google has V8, Mozilla has SpiderMonkey, Microsoft has Chakra, and
 Apple has JSCore.
 
