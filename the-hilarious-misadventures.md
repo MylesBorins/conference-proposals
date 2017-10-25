@@ -22,6 +22,5 @@ Understanding how the language is implemented and embedded is important to havin
 
 ## Watch the talk
 
-I have not yet given this talk.
-
-Please reach out if you are interested in seeing it at your event!
+### Nordic JS September 2017
+[![Nordic JS September 2017](https://img.youtube.com/vi/kkHdhtzM0wk/0.jpg)](https://www.youtube.com/watch?v=kkHdhtzM0wk)

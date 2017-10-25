@@ -45,6 +45,8 @@ their project and community.
 
 ## Watch the talk
 
-I have not yet given this talk.
+## Polyconf July 2017
+[![Polyconf July 2017](https://img.youtube.com/vi/nY64JAzHJuo/0.jpg)](https://www.youtube.com/watch?v=nY64JAzHJuo)
 
-Please reach out if you are interested in seeing it at your event!
+## Node Summit July 2017
+[![Node Summit July 2017](https://i.vimeocdn.com/video/650644764.jpg)](https://vimeo.com/230146372)

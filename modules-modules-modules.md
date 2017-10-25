@@ -18,6 +18,5 @@ Many people are working quite hard to ensure Node and the Browser don't diverge;
 
 ## Watch the talk
 
-I have not yet given this talk.
-
-Please reach out if you are interested in seeing it at your event!
+### Node Interactive 2017
+[![Node Interactive 2017](https://img.youtube.com/vi/W5CXzo4TZVU/hq1.jpg)](https://www.youtube.com/watch?v=W5CXzo4TZVU)

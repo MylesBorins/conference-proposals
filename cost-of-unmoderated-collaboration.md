@@ -31,6 +31,5 @@ continued to improve our process for community moderation to keep up.
 
 ## Watch the talk
 
-I have not yet given this talk.
-
-Please reach out if you are interested in seeing it at your event!
+### DinosaureJS 2017
+[![DinosaureJS 2017](https://img.youtube.com/vi/cJOUxRf80CE/0.jpg)](https://www.youtube.com/watch?v=cJOUxRf80CE)

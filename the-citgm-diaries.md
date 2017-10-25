@@ -32,3 +32,7 @@ different case studies of major breakages that would not have been found with CI
 ### Node.js Madrid April 2017
 
 [![Nodejs Mardrid](https://i.vimeocdn.com/video/628221460_640.webp)](https://vimeo.com/212275635)
+
+### Nodejs Israel May 2017
+
+[![Nodejs Israel](https://img.youtube.com/vi/0A6-d3y5kWk/0.jpg)](https://www.youtube.com/watch?v=0A6-d3y5kWk)
