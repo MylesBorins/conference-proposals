@@ -2,6 +2,7 @@
 > A collection of proposals I have sent out
 
 * [A Distributed Orchestra](a-distributed-orchestra.md)
+* [Adventures in Ethical Computing](adventures-in-ethical-computing.md)
 * [Modules Modules Modules](modules-modules-modules.md)
 * [Node.js Releases: How do they work?](node-js-releases.md)
 * [Open Source Governance Models: From BDFL to Distributed Consensus](open-source-governance-models.md)
