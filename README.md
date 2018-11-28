@@ -10,6 +10,7 @@
 * [The CITGM Diaries](the-citgm-diaries.md)
 * [The hilarious misadventures of being a platform downstream from your language](the-hilarious-misadventures.md)
 * [The True Cost of Unmoderated Collaboration](cost-of-unmoderated-collaboration.md)
+* [Top-Level Awaiting for Godot](top-level-awaiting-for-godot.md)
 * [Why Empathy Matters](why-empathy-matters.md)
 
 ## Want me to give one of these talks at your event?

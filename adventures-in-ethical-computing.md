@@ -12,4 +12,6 @@ You are responsible for the software and hardware you help to create. Ethically 
 
 ## Watch the Talk
 
-I have not yet given this talk. Want to hear it? [Reach Out](mailto:myles.borins+talk-invite@gmail.com)
+[![JSConf 2019](https://img.youtube.com/vi/wGIRqPvtJ1E/0.jpg)](https://www.youtube.com/watch?v=wGIRqPvtJ1E)
+
+

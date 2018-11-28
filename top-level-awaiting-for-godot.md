@@ -8,4 +8,4 @@ What if that were not the case? What if `await` could be used anywhere inside a 
 
 ## Watch the talk
 
-I have not given this talk yet, invite me to give it to your meetup or conference!
+[![JSConf EU 2018](https://img.youtube.com/vi/L87aCMJuWNM/0.jpg)](https://www.youtube.com/watch?v=L87aCMJuWNM)
