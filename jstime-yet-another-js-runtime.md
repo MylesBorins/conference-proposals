@@ -9,7 +9,7 @@ jstime is also the first rust project I've ever worked on. In just a couple week
 has grown from a few lines of code that could print "hello world", to a functional JavaScript
 runtime with a working governance model and multiple maintainers.
 
-From learning about lifetime's to implementing rough consensus this talk will cover what's
+From learning about lifetimes to implementing rough consensus this talk will cover what's
 happened in jstime up until now and the lessons learned along the way.
 
 ## A bit more info
